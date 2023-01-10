@@ -1,0 +1,14 @@
+INSTRUCTIONS AND RULES FOR TIC TAC TOE:
+1. The game is played on a square grid of n x n dimension where n should be greater than or equal to 3.
+
+2. You are X, your friend is O. Players take turns putting their marks in empty squares.
+
+3. You are required to choose a position that isn't already taken and doesn't exceed the dimension.
+
+4. You can choose your own symbols instead of the conventional X and O in this game.
+
+5. The first player to get all marks in a row (up, down, across, or diagonally) is the winner.
+
+6. When all the squares are full, the game is over. If no player has all marks in a row, the game ends in a tie.
+
+7. The performance of the payers will be stored in a file for the players to view at the end of the game.
